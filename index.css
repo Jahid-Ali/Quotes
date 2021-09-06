@@ -9,7 +9,7 @@ font-family: 'Varela Round', sans-serif; */
 
 body{
     background-color: rgb(175, 234, 241);
-    background: url('./y-so-serious.png');
+    background: linear-gradient(90deg, rgba(3,255,239,1) 0%, rgba(29,233,231,1) 49%, rgba(10,209,193,1) 95%);
 }
 
 .container{
@@ -23,7 +23,7 @@ body{
     margin: 4rem auto;
 
     border-radius: 10px;
-    box-shadow: 0px 0px 5px #fa87eb;
+    box-shadow: 0px 0px 5px #e4feff;
 }
 
 .inner{
